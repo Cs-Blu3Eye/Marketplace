@@ -8,15 +8,30 @@ Aplikasi Marketplace sederhana berbasis **Laravel 12**, menggunakan **Blade temp
 
 <table>
   <tr>
-    <td><img src="public/img/Admin-Panel.png" alt="Admin Panel" width="100%"/></td>
-    <td><img src="public/img/Marketplace.png" alt="Marketplace" width="100%"/></td>
+    <td align="center">
+        <img src="public/img/Admin-Panel.png" alt="Admin Panel" width="100%"/>
+        <strong>Admin Panel</strong>
+    </td>
+    <td align="center">
+        <img src="public/img/Marketplace.png" alt="Marketplace" width="100%"/>
+        <strong>Marketplace</strong>
+    </td>
   </tr>
   <tr>
-    <td><img src="public/img/MidtransPayment.png" alt="Midtrans Payment" width="100%"/></td>
-    <td><img src="public/img/SuccessPayment.png" alt="Success Payment" width="100%"/></td>
+    <td align="center">
+        <img src="public/img/MidtransPayment.png" alt="Midtrans Payment" width="100%"/>
+        <strong>Midtrans Payment</strong>
+    </td>
+    <td align="center">
+        <img src="public/img/SuccessPayment.png" alt="Success Payment" width="100%"/>
+        <strong>Success Payment</strong>
+    </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="public/img/TransactionHistory.png" alt="Transaction History" width="100%"/></td>
+    <td colspan="2" align="center">
+        <img src="public/img/TransactionHistory.png" alt="Transaction History" width="100%"/>
+        <strong>Transaction History</strong>
+    </td>
   </tr>
 </table>
 
@@ -57,7 +72,7 @@ Aplikasi Marketplace sederhana berbasis **Laravel 12**, menggunakan **Blade temp
 ## 🚀 Cara Install
 
 ```bash
-git clone https://github.com/username/laravel-marketplace.git
+git clone https://github.com/Cs-Blu3Eye/laravel-marketplace.git
 cd laravel-marketplace
 
 # Install dependency
@@ -158,16 +173,4 @@ Pull request dan kritik sangat diterima. Pastikan coding mengikuti standar Larav
 
 ## 📄 Lisensi
 
-MIT License © 2025 [ZU](https://github.com/yourusername)
-
-```
-
----
-
-Kalau kamu mau lebih serius, README ini bisa:
-- Disertakan di GitHub agar project kelihatan profesional.
-- Dicetak jadi PDF buat lampiran tugas akhir.
-- Dijadikan dokumentasi onboarding kalau kamu kolaborasi dengan dev lain.
-
-Mau gw bantu generate ERD-nya juga (Entity Relationship Diagram) untuk disisipin di README atau PDF dokumentasi?
-```
+MIT License © 2025 [Cs-Blu3Eye](https://github.com/Cs-Blu3Eye)
